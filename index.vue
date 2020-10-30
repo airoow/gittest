@@ -1,3 +1,6 @@
 <template>
-    <div>12345</div>
+    <div>12345
+        <span>6</span>
+    </div>
+    
 </template>
